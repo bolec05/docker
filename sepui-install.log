@@ -1,0 +1,14 @@
+======================================================
+Pre-install begin: Thu Oct 27 02:12:00 EDT 2016
+Pre-install end: Thu Oct 27 02:12:00 EDT 2016
+Post-install begin: Thu Oct 27 02:12:00 EDT 2016
+BaseDir=/opt/Symantec
+savuiDir=/opt/Symantec
+Post-install end: Thu Oct 27 02:12:00 EDT 2016
+savtray: cannot connect to X server 
+*====================================================*
+Pre-uninstall begin: Thu Oct 27 02:14:55 EDT 2016
+Pre-uninstall end: Thu Oct 27 02:14:55 EDT 2016
+Post-uninstall begin: Thu Oct 27 02:14:55 EDT 2016
+savuiDir=/opt/Symantec
+Post-uninstall end: Thu Oct 27 02:14:55 EDT 2016

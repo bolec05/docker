@@ -1,0 +1,17 @@
+======================================================
+Pre-install begin: Thu Oct 27 02:11:53 EDT 2016
+Stopping smcd (via systemctl):  [  OK  ]
+Stopping rtvscand (via systemctl):  [  OK  ]
+Stopping symcfgd (via systemctl):  [  OK  ]
+Pre-install end: Thu Oct 27 02:11:53 EDT 2016
+Post-install begin: Thu Oct 27 02:11:54 EDT 2016
+Install and register the defs
+cannot get the install dir, skip checking and install existing defs.
+Post-install end: Thu Oct 27 02:11:54 EDT 2016
+*====================================================*
+Pre-uninstall begin: Thu Oct 27 02:15:03 EDT 2016
+BaseDir=/opt/Symantec
+Pre-uninstall end: Thu Oct 27 02:15:03 EDT 2016
+Post-uninstall begin: Thu Oct 27 02:15:03 EDT 2016
+BaseDir=/opt/Symantec
+Post-uninstall end: Thu Oct 27 02:15:03 EDT 2016

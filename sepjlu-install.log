@@ -1,0 +1,20 @@
+======================================================
+Pre-install begin: Thu Oct 27 02:12:07 EDT 2016
+Stopping smcd (via systemctl):  [  OK  ]
+Performing upgrade pre-install actions
+Cannot find uninstall.sh for the previous jlu.jar, remove the files manually
+Pre-install end: Thu Oct 27 02:12:07 EDT 2016
+Post-install begin: Thu Oct 27 02:12:07 EDT 2016
+BaseDir=/opt/Symantec
+JAVA_HOME=
+No java found. JLU will need to be installed manually with the following command line:
+java -classpath <jlupath>/jlu.jar com.symantec.liveupdate.Installer
+Post-install end: Thu Oct 27 02:12:07 EDT 2016
+*====================================================*
+Pre-uninstall begin: Thu Oct 27 02:15:03 EDT 2016
+BaseDir=/opt/Symantec
+Nothing to do when upgrade preuninstall
+Pre-uninstall end: Thu Oct 27 02:15:03 EDT 2016
+Post-uninstall begin: Thu Oct 27 02:15:03 EDT 2016
+Nothing to do when upgrade postuninstall
+Post-uninstall end: Thu Oct 27 02:15:03 EDT 2016
